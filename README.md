@@ -11,3 +11,9 @@ lorem for rebase
 lorem for rebase 2
 
 code from testing branch
+
+lorem x
+
+lorem y
+
+lorem z
