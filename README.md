@@ -1,4 +1,4 @@
-lorem from local (mod) (rebase) (rebase 2)
+lorem from local (mod) (rebase) (rebase 2) (rebase conflict from remote)
 
 lorem from remote
 
