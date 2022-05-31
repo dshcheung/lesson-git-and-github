@@ -1,1 +1,2 @@
-lorem
+lorem from local
+lorem from remote
