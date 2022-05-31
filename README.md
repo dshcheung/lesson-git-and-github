@@ -1,4 +1,4 @@
-lorem from local
+lorem from local (mod)
 
 lorem from remote
 
